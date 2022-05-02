@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-kuck&count_private=true&theme=radical&show_icons=true)
+![Alex* most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kuck&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)
 
 <!--
 **alex-kuck/alex-kuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
