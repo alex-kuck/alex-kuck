@@ -5,6 +5,7 @@ always looking into new stuff
 ## blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Living with Multiple Git-Personalities without Going Crazy](https://dev.to/alexkuck/living-with-multiple-git-personalities-without-going-crazy-3kbi)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me:
